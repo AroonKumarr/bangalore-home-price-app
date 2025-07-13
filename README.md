@@ -33,11 +33,11 @@ python server.py
 Here are some screenshots of the Bangalore Home Price Prediction App UI:
 
 ### 🖼️ Home Page
-![UI 1](assets/app.ui(1).jpg)
+![UI 1](assets/app_ui_1.png)
 
 ### 🖼️ Input Form
-![UI 2](assets/app.ui(2).jpg)
+![UI 2](assets/app_ui_2.png)
 
 ### 🖼️ Prediction Result
-![UI 3](assets/app.ui(3).jpg)
+![UI 3](assets/app_ui_3.png)
 
